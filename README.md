@@ -2,8 +2,8 @@
 > Whatever you do, do it properly.
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
 ### :hourglass:In Progress<br>
-- Quant Investment Project
-- Android Brain Training mini game Project
+- <strong>Quant Investment Project</strong>
+-<strong> Android Brain Training mini game Project</strong>
 <!--- Visualizing Hospital Visitors-->
 
 ### :fire:Interested in<br>
