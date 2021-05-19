@@ -1,5 +1,5 @@
 ## Hyun-Woo Cho  <a href="https://hyeo-noo.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square"/></a>
-> Whatever you do, do it properly.
+> <strongWhatever you do, do it properly.</strong>
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
 ### :hourglass:In Progress<br>
 - <strong>Quant Investment Project</strong>
