@@ -2,8 +2,9 @@
 > <strong>Whatever you do, do it properly.</strong>
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
 ### :hourglass:In Progress<br>
-- <strong>Quant Investment Project</strong>
-- <strong> Android Project - Brain Training mini game </strong>
+- <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
+- <strong> Android Project - Brain Training mini game</strong> (Android, Java / UI, Game Implement)
+- <strong> Busan Regional University Association Club : PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
 <!--- Visualizing Hospital Visitors-->
 
 ### :fire:Interested in<br>
