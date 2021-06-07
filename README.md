@@ -4,7 +4,7 @@
 ### :hourglass:In Progress<br>
 - <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
 - <strong> Android Project - Brain Training mini game</strong> (Android, Java / UI, Game Implement)
-- <strong> Busan Regional University Association Club : PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
+- <strong> Club PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
 <!--- Visualizing Hospital Visitors-->
 
 ### :fire:Interested in<br>
