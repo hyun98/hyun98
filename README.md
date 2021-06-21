@@ -5,6 +5,7 @@
 - <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
 - <strong> Android Project - Brain Training mini game</strong> (Android, Java / UI, Game Implement)
 - <strong> Club PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
+- <strong>제7회 소통고리 대학생 자원봉사 공모전</strong>  [IT/코로나 방역 키트]
 <!--- Visualizing Hospital Visitors-->
 
 ### :fire:Interested in<br>
