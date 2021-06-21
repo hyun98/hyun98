@@ -1,19 +1,23 @@
 ## Hyun-Woo Cho  <a href="https://hyeo-noo.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square"/></a>
 > <strong>Whatever you do, do it properly.</strong>
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
-### :hourglass:In Progress<br>
-- <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
-- <strong> Android Project - Brain Training mini game</strong> (Android, Java / UI, Game Implement)
-- <strong> Club PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
-- <strong>제7회 소통고리 대학생 자원봉사 공모전</strong>  [IT/코로나 방역 키트]
-<!--- Visualizing Hospital Visitors-->
 
 ### :fire:Interested in<br>
 
-- <strong>Algorithm</strong>
-- <strong>Back-end</strong>
-- <strong>Server</strong>
-- <strong>DBA</strong>
+- <strong>Algorithm / Data Structure</strong>
+- <strong>Back-end / Server</strong>
+- <strong>DataBase</strong>
+
+
+### :hourglass:In Progress<br>
+- <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
+- <strong> Club PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
+- <strong>제7회 소통고리 대학생 자원봉사 공모전</strong>  [IT/코로나 방역 키트]
+
+
+### :mortar_board:Done<br>
+- <strong> Android Project - [Brain Training mini game](https://github.com/JihwanRyu051/SoftwareDesign)</strong> (Android, Java / UI, Game Implement)
+
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo)
 <!-- <br>![hyun0404woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun98&show_icons=true&theme=dark) -->
