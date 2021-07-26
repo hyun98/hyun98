@@ -6,7 +6,7 @@
 
 - <strong>Algorithm / Data Structure</strong>
 - <strong>Back-end / Server</strong>
-- <strong>DataBase</strong>
+- <strong>Docker</strong>
 
 
 ### :hourglass:In Progress<br>
