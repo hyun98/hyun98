@@ -19,7 +19,7 @@
 - <strong>[제7회 소통고리 대학생 자원봉사 공모전](http://3.35.243.239/)</strong>  [IT/코로나 방역 키트]
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo)
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
 <!-- <br>![hyun0404woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun98&show_icons=true&theme=dark) -->
 ### Stacks
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-sqaure&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&link=https://simpleicons.org/?q=django"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-sqaure&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-sqaure&logo=Git&logoColor=white"/>
