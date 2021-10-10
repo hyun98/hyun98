@@ -11,12 +11,11 @@
 
 ### :hourglass:In Progress<br>
 - <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
-- <strong> Club PROJECT - Official Page Making</strong> (Django, Python / Back-end, Server)
 
 
 ### :mortar_board:Done<br>
 - <strong> Android Project - [Brain Training mini game](https://github.com/JihwanRyu051/SoftwareDesign)</strong> (Android, Java / UI, Game Implement)
-- <strong>[제7회 소통고리 대학생 자원봉사 공모전](http://3.35.243.239/)</strong>  [IT/코로나 방역 키트]
+- <strong>[Official Page](https://buscp.org)</strong>  [부산 소프트웨어 연합 동아리 PROJECT]
 
 
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
