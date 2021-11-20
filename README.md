@@ -10,7 +10,7 @@
 
 
 ### :hourglass:In Progress<br>
-- <strong>Quant Investment Web Service Project</strong> (Django, Python / Back-end, Server)
+- <strong>[Quant Investment Web Service Project](https://quant.or.kr)</strong> (Django, Python / Back-end, Server)
 
 
 ### :mortar_board:Done<br>
