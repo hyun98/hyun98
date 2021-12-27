@@ -12,12 +12,11 @@
 
 
 ### :hourglass:In Progress<br>
+- <strong>Spring Study</strong>
+
+### :mortar_board:Maintenance<br>
 - <strong>[Quant Investment Web Service Project](https://quant.or.kr)</strong> (Django, Python / Back-end, Server)
-
-
-### :mortar_board:Done<br>
-- <strong> Android Project - [Brain Training mini game](https://github.com/JihwanRyu051/SoftwareDesign)</strong> (Android, Java / UI, Game Implement)
-- <strong>[Official Page](https://buscp.org)</strong>  [부산 소프트웨어 연합 동아리 PROJECT]
+- <strong>[Official Page](https://buscp.org)</strong>  [부산 IT 연합 동아리 PROJECT]
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo)
