@@ -1,7 +1,9 @@
 ## Hyun-Woo Cho  <a href="https://hyeo-noo.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square"/></a>
 > <strong>Whatever you do, do it properly.</strong>
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
 
+
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo)
 ### :fire:Interested in<br>
 
 - <strong>Algorithm / Data Structure</strong>
