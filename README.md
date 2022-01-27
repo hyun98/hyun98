@@ -10,14 +10,14 @@
 - <strong>Back-end</strong>
 - <strong>DevOps</strong>
 
-
+<!-- 
 ### :hourglass:In Progress<br>
 - <strong>Spring Study</strong>
 
 ### :mortar_board:Maintenance<br>
 - <strong>[Quant Investment Web Service Project](https://quant.or.kr)</strong> (Django, Python / Back-end, Server)
 - <strong>[Official Page](https://buscp.org)</strong>  [부산 IT 연합 동아리 PROJECT]
-
+ -->
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo)
 <!-- <br>![hyun0404woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun98&show_icons=true&theme=dark) -->
