@@ -1,14 +1,14 @@
 ## Hyun-Woo Cho  <a href="https://hyeo-noo.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat-square"/></a>
-> <strong>Whatever you do, do it properly.</strong>
+<!-- > <strong>Whatever you do, do it properly.</strong> -->
 
 
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyun0404woo)](https://solved.ac/hyun0404woo) -->
 
-### :fire:Interested in<br>
-
+### ☁️ Will Be `DevOps` / `BackEnd` Engineer <br>
+<!-- 
 - <strong>DevOps</strong>
 - <strong>Back-end</strong>
-- <strong>Algorithm / Data Structure</strong>
+- <strong>Algorithm / Data Structure</strong> -->
 
 <!-- 
 ### :hourglass:In Progress<br>
