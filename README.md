@@ -20,7 +20,7 @@
 |    Work Experience   | 2022. 06 ~ 2022. 08 |         Kakao Tech 인턴십        |           Kakao          |
 |  External activities | 2022. 10 ~ 2022. 10 |        2th 구름톤 in Jeju        |       Kakao X Goorm      |
 |    Work Experience   |  2023.01 ~ Current  |          Client Engineer         |          NCSOFT          |
-|  External activities |     2024. 02. 22    | 스파로스아카데미 협업툴 기술특강 |             신세계 I&C             |
+|  External activities |     2024. 02. 22    | 스파로스아카데미 Git 기술특강 강사 |             신세계 I&C             |
 
 <br>
 
