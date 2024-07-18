@@ -21,6 +21,7 @@
 |  External activities | 2022. 10 ~ 2022. 10 |        2th 구름톤 in Jeju        |       Kakao X Goorm      |
 |    Work Experience   |  2023.01 ~ Current  |          Client Engineer         |          NCSOFT          |
 |  External activities |     2024. 02. 22    | 스파로스아카데미 Git 기술특강 강사 |             신세계 I&C             |
+|  External activities |     2024. 07. ~    | 2024 OSSCA Yorkie 멘티 |    오픈소스 컨트리뷰션 아카데미      |
 
 <br>
 
