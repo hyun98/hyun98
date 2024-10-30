@@ -17,11 +17,12 @@
 | On-Campus activities | 2021. 07 ~ 2022. 11 |    PNU '뭐든지 해봐' 프로젝트    |   Pusan National Univ.   |
 |  External activities | 2021. 08 ~ 2021. 10 |        부산 유니브 엑스포        |       UnivExpoBusan      |
 | On-Campus activities | 2022. 04 ~ 2022. 11 |     PNU 졸업과제 및 Tech Week    |   Pusan National Univ.   |
-|    Work Experience   | 2022. 06 ~ 2022. 08 |         Kakao Tech 인턴십        |           Kakao          |
+|    Work Experience   | 2022. 06 ~ 2022. 08 |         Kakao Tech 인턴십<br> Data Engineer       |           Kakao          |
 |  External activities | 2022. 10 ~ 2022. 10 |        2th 구름톤 in Jeju        |       Kakao X Goorm      |
-|    Work Experience   |  2023.01 ~ Current  |          Client Engineer         |          NCSOFT          |
-|  External activities |     2024. 02. 22    | 스파로스아카데미 Git 기술특강 강사 |             신세계 I&C             |
+|    Work Experience   |  2023.01 ~ 2024.10  |        PURPLE<br>Window Client Programmer       |          NCSOFT          |
+|  External activities |     2024. 02. 22<br>2024. 08. 05   | 스파로스아카데미 Git 기술특강 강사 |             신세계 I&C             |
 |  External activities |     2024. 07. ~    | 2024 OSSCA Yorkie 멘티 |    오픈소스 컨트리뷰션 아카데미      |
+|    Work Experience   |  2024.11 ~ Current  |        SRE Engineer       |          NCSOFT          |
 
 <br>
 
